@@ -6,4 +6,4 @@ export default [
   'tiles.png',
   'boom.mp3',
   'win.mp3'
-].toString();
+]
